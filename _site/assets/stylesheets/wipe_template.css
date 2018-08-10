@@ -25,3 +25,5 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 ul, ol { padding-left: 20px; }
 
 a:hover { text-decoration: none; }
+
+p { text-indent: 30px; }
