@@ -25,6 +25,16 @@ html, body {
   background-size: cover;
 }
 
+.wipe_bg_white {
+  background: url('/assets/images/wipe_bg_white.jpeg');
+  background-repeat: repeat;
+}
+
+.wipe_bg_dark {
+  background: url('/assets/images/wipe_bg_dark.jpeg');
+  background-repeat: repeat;
+}
+
 .wow-dialog {
   border-image: url('/assets/images/DialogFrame-Corners.png') 20 stretch;
   border-style: solid;

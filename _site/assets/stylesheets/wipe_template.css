@@ -4,6 +4,10 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 
 .antorus_sky_bg { background: url("/assets/images/antorus_sky.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
 
+.wipe_bg_white { background: url("/assets/images/wipe_bg_white.jpeg"); background-repeat: repeat; }
+
+.wipe_bg_dark { background: url("/assets/images/wipe_bg_dark.jpeg"); background-repeat: repeat; }
+
 .wow-dialog { border-image: url("/assets/images/DialogFrame-Corners.png") 20 stretch; border-style: solid; border-width: 25px; font-weight: 200; text-shadow: 1px 1px 1px black; padding: 0; }
 .wow-dialog .wow-dialog-content { padding: 10px; margin: -12px; border-radius: 5px; background: rgba(0, 0, 0, 0.75); }
 .wow-dialog a { text-shadow: none; }
