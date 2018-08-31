@@ -9,7 +9,7 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 .wipe_bg_dark { background: url("/assets/images/wipe_bg_dark.jpeg"); background-repeat: repeat; }
 
 .wow-dialog { border-image: url("/assets/images/DialogFrame-Corners.png") 20 stretch; border-style: solid; border-width: 25px; font-weight: 200; text-shadow: 1px 1px 1px black; padding: 0; }
-.wow-dialog .wow-dialog-content { padding: 10px; margin: -12px; border-radius: 5px; background: rgba(0, 0, 0, 0.75); }
+.wow-dialog .wow-dialog-content { padding: 10px; margin: -12px; border-radius: 5px; background: rgba(0, 0, 0, 0.85); }
 .wow-dialog a { text-shadow: none; }
 .wow-dialog.wow-rock-background .wow-dialog-content { background-image: url("/assets/images/UI-Background-Rock.PNG"); text-shadow: -1px -1px 1px grey; }
 .wow-dialog.wow-paper-background .wow-dialog-content { background-image: url("/assets/images/question-background.PNG"); color: #3c2a1f; text-shadow: 0px 0px 1px rgba(255, 255, 255, 0.7); font-weight: normal; }
