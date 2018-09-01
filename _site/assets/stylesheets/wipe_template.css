@@ -4,6 +4,8 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 
 .antorus_sky_bg { background: url("/assets/images/antorus_sky.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
 
+.geodome_bg { background: url("/assets/images/geodomebg.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
+
 .wipe_bg_white { background: url("/assets/images/wipe_bg_white.jpeg"); background-repeat: repeat; }
 
 .wipe_bg_dark { background: url("/assets/images/wipe_bg_dark.jpeg"); background-repeat: repeat; }
@@ -21,7 +23,7 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 .wow-btn:active > span { text-shadow: 1px 1px rgba(0, 0, 0, 0.5), -1px -1px rgba(255, 255, 255, 0.2); background-image: url("/assets/images/PressedButtonCenterBg.png"); }
 
 #header { border-bottom: none; }
-#header #header-content { height: 200px; position: relative; border-radius: 5px; background-image: url("/assets/images/HeaderBg.png"); background-position: center center; background-size: cover; }
+#header #header-content { height: 220px; position: relative; border-radius: 5px; background-image: url("/assets/images/headeruldir2.png"); background-position: center center; background-size: cover; }
 #header #header-content h1 { position: absolute; right: 20px; bottom: 10px; }
 
 #menu { margin-top: 3px; text-align: center; }

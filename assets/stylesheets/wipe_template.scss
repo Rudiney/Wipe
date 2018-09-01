@@ -25,6 +25,14 @@ html, body {
   background-size: cover;
 }
 
+.geodome_bg {
+  background: url('/assets/images/geodomebg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0 0;
+  background-size: cover;
+}
+
 .wipe_bg_white {
   background: url('/assets/images/wipe_bg_white.jpeg');
   background-repeat: repeat;
@@ -105,11 +113,11 @@ html, body {
   border-bottom: none;
 
   #header-content {
-    height: 200px;
+    height: 220px;
     position: relative;
 
     border-radius: 5px;
-    background-image: url('/assets/images/HeaderBg.png');
+    background-image: url('/assets/images/headeruldir2.png');
     background-position: center center;
     background-size: cover;
 
