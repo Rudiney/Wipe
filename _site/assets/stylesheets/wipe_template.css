@@ -2,6 +2,8 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 
 .argus_spikes_bg { background: url("/assets/images/argus_spikes.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
 
+.uldir_bg { background: url("/assets/images/uldir_bg.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
+
 .antorus_sky_bg { background: url("/assets/images/antorus_sky.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
 
 .geodome_bg { background: url("/assets/images/geodomebg.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 0 0; background-size: cover; }
@@ -16,6 +18,7 @@ html, body { background: black; color: white; cursor: url("/assets/images/wow-cu
 .wow-dialog.wow-rock-background .wow-dialog-content { background-image: url("/assets/images/UI-Background-Rock.PNG"); text-shadow: -1px -1px 1px grey; }
 .wow-dialog.wow-paper-background .wow-dialog-content { background-image: url("/assets/images/question-background.PNG"); color: #3c2a1f; text-shadow: 0px 0px 1px rgba(255, 255, 255, 0.7); font-weight: normal; }
 .wow-dialog.wow-paper-background a { color: #3c2a1f; }
+.wow-dialog hr { border-top: 1px solid gray; }
 
 .wow-btn { border-image: url("/assets/images/ButtonBg.png") 45 stretch; border-style: solid; border-width: 10px; line-height: 40px; }
 .wow-btn > span { padding: 0px 5px; color: #fdca25; background-image: url("/assets/images/ButtonCenterBg.png"); background-size: cover; white-space: nowrap; }

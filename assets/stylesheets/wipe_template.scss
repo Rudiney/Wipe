@@ -17,6 +17,14 @@ html, body {
   background-size: cover;
 }
 
+.uldir_bg {
+  background: url('/assets/images/uldir_bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0 0;
+  background-size: cover;
+}
+
 .antorus_sky_bg {
   background: url('/assets/images/antorus_sky.jpg');
   background-repeat: no-repeat;
@@ -81,6 +89,10 @@ html, body {
     a {
       color: #3c2a1f;
     }
+  }
+
+  hr {
+    border-top: 1px solid gray;
   }
 }
 
